@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars>
+    <bestLike>
+        <name>LandRover</name>
+    </bestLike>
+
+    <driver2>
+        <name>LandRover</name>
+    </driver2>
+    <factory1>
+        <name>BMW</name>
+    </factory1>
+    <factory2>
+        <class>com.jasongj.product.BenzCar</class>
+    </factory2>
+    <factory3>
+        <type>BMW</type>
+    </factory3>
+</cars>
